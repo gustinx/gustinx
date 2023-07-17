@@ -1,11 +1,11 @@
 ## Olá👋 eu sou o Mateus Bueno, Bacharelado em Engenharia da Computação, estudante de ReactJS, NodeJS, React-native e outras tecnologias 
-<!---
+
 <div>
   <a href='https://github.com/gustinx'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=gustinx&show_icons=true&theme=dracula'</img>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs?username=gustinx&show_icons=true&theme=dracula'</img>
 </div>
---->
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
